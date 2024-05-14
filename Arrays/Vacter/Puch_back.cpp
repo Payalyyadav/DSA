@@ -15,7 +15,7 @@ int main (){
 
    // Print -------->>>>
    for(int i =0; i<values.size(); i++){
-    cout<<values[i]<<endl;
+    cout<<values[i]<<endl; // next value add karta h
    }
             
 
